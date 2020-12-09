@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LalisaShop</string>
+    <string name="hello_saya_lisa_aprilia">Hello, Saya Lisa Aprilia!</string>
+    <string name="profile_nama">Lisa Aprilia</string>
+    <string name="profile_username">lisaaprilia</string>
+    <string name="profile_tanggallahir">30 April 2002</string>
+    <string name="profile_followers">1000</string>
+    <string name="profile_follow_button">Follow</string>
+    <string name="profile_lbl_nama">Lisa Aprilia</string>
+    <string name="profile_blog_pribadi">Blog Pribadi</string>
+    <string name="profile_postingan_count">50</string>
+    <string name="profile_postingan">Postingan</string>
+    <string name="profile_postingan_count2">1000</string>
+    <string name="profile_pengikut">Pengikut</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="profile_jumlah">10</string>
+    <string name="profile_follow">Ikuti</string>
+    <string name="profile_messenge">Kirim Pesan</string>
+    <string name="profile_lbl_pengikut">pengikut</string>
+    <string name="profile_username_">Username</string>
+</resources>
